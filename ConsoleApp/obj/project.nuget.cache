@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "yn4t/ncXeP+Msya7AHGlN46j5murTEDdINKSRNI9tziUbKrSVgk0YpMD+YP+jylHmJ0uyit3NTyTj7IGDqKXRg==",
+  "success": true,
+  "projectFilePath": "C:\\Repos\\OTelSample\\ConsoleApp\\ConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\paodero\\AppData\\Roaming\\packages\\microsoft.extensions.configuration\\3.1.0\\microsoft.extensions.configuration.3.1.0.nupkg.sha512",
+    "C:\\Users\\paodero\\AppData\\Roaming\\packages\\microsoft.extensions.configuration.abstractions\\3.1.0\\microsoft.extensions.configuration.abstractions.3.1.0.nupkg.sha512",
+    "C:\\Users\\paodero\\AppData\\Roaming\\packages\\microsoft.extensions.configuration.binder\\3.1.0\\microsoft.extensions.configuration.binder.3.1.0.nupkg.sha512",
+    "C:\\Users\\paodero\\AppData\\Roaming\\packages\\microsoft.extensions.dependencyinjection\\3.1.0\\microsoft.extensions.dependencyinjection.3.1.0.nupkg.sha512",
+    "C:\\Users\\paodero\\AppData\\Roaming\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.0\\microsoft.extensions.dependencyinjection.abstractions.3.1.0.nupkg.sha512",
+    "C:\\Users\\paodero\\AppData\\Roaming\\packages\\microsoft.extensions.logging\\3.1.0\\microsoft.extensions.logging.3.1.0.nupkg.sha512",
+    "C:\\Users\\paodero\\AppData\\Roaming\\packages\\microsoft.extensions.logging.abstractions\\3.1.0\\microsoft.extensions.logging.abstractions.3.1.0.nupkg.sha512",
+    "C:\\Users\\paodero\\AppData\\Roaming\\packages\\microsoft.extensions.logging.configuration\\3.1.0\\microsoft.extensions.logging.configuration.3.1.0.nupkg.sha512",
+    "C:\\Users\\paodero\\AppData\\Roaming\\packages\\microsoft.extensions.options\\3.1.0\\microsoft.extensions.options.3.1.0.nupkg.sha512",
+    "C:\\Users\\paodero\\AppData\\Roaming\\packages\\microsoft.extensions.options.configurationextensions\\3.1.0\\microsoft.extensions.options.configurationextensions.3.1.0.nupkg.sha512",
+    "C:\\Users\\paodero\\AppData\\Roaming\\packages\\microsoft.extensions.primitives\\3.1.0\\microsoft.extensions.primitives.3.1.0.nupkg.sha512",
+    "C:\\Users\\paodero\\AppData\\Roaming\\packages\\opentelemetry\\1.4.0-alpha.1\\opentelemetry.1.4.0-alpha.1.nupkg.sha512",
+    "C:\\Users\\paodero\\AppData\\Roaming\\packages\\opentelemetry.api\\1.4.0-alpha.1\\opentelemetry.api.1.4.0-alpha.1.nupkg.sha512",
+    "C:\\Users\\paodero\\AppData\\Roaming\\packages\\opentelemetry.exporter.console\\1.4.0-alpha.1\\opentelemetry.exporter.console.1.4.0-alpha.1.nupkg.sha512",
+    "C:\\Users\\paodero\\AppData\\Roaming\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
+    "C:\\Users\\paodero\\AppData\\Roaming\\packages\\system.reflection.emit.lightweight\\4.7.0\\system.reflection.emit.lightweight.4.7.0.nupkg.sha512",
+    "C:\\Users\\paodero\\AppData\\Roaming\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\paodero\\AppData\\Roaming\\packages\\system.text.json\\4.7.0\\system.text.json.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
